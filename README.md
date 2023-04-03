@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">Mechanical and Computer Vision Engineer.  </h3>
 
-I am currently studying my second year of the master’s in mechanical engineering at KU Leuven. Since last year, I have focused my professional path on computer vision `:camera:` and Artificial Intelligence.
+I am currently studying my second year of the master’s in mechanical engineering at KU Leuven. Since last year, I have focused my professional path on computer vision &#x1F4F7; and Artificial Intelligence.
 
 ---
 
