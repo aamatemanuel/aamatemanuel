@@ -1,5 +1,10 @@
+<h1 align="center">Hi 👋, I'm Manuel</h1>
+<h3 align="center">Mechanical and Computer Vision Engineer.
+
 ### Hi there 👋
 My name is Manuel 
+
+
 <!--
 **aamatemanuel/aamatemanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
