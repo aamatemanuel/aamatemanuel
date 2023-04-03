@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Manuel Arteaga</h1>
 <h3 align="center">Mechanical &#x1F916;	and Computer Vision &#x1F4F7; Engineer.  </h3>
 
-I am currently studying my second year of the Master’s in Mechanical Engineering at KU Leuven, in Belgium. Since last year, I have focused my interest on computer vision and Artificial Intelligence, and I have found it really exciting. In my public repository [`Computer_Vision`](https://github.com/aamatemanuel/Computer_Vision), I have some of the academic and personal projects that have given me hands-on experience in this fabulous world of AI.
+I am currently studying my second year of the Master’s in Mechanical Engineering at KU Leuven, in Belgium. Since last year, I have focused my interest on computer vision and Artificial Intelligence, and I have found it really exciting. In my public repository [`Computer_Vision`](https://github.com/aamatemanuel/Computer_Vision), I have some of the academic and personal projects that have given me hands-on experience in AI.
 
 ---
 <!-- CONNECTION -->
