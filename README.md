@@ -16,19 +16,13 @@ I am currently studying my second year of the Master’s in Mechanical Engineeri
 <!-- LANGUAGES AND SKILLS -->
 <h3 align="left">Languages and Skills:</h3>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" width="50" /></a>
-&nbsp;
 <a href="https://docs.opencv.org/4.x/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="50" width="50" /></a>
-&nbsp;
 <a href="https://pytorch.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="50" width="50" /></a>
-&nbsp;
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" width="50" /></a>
 &nbsp;
-&nbsp;
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="aamatemanuel" height="50" width="50" /></a>
-&nbsp;
 <a href="https://www.linux.org/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Git" height="50" width="50" /></a> 
 <a href="https://nl.mathworks.com/products/matlab.html" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" height="50" width="50" /></a>
-&nbsp;
 <a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="50" width="50" /></a>
 
 
